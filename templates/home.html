@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Defaulter Prediction</title>
+
+    <style>
+
+body{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction: column;
+}
+
+.form-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+        box-shadow: 6px 5px 6px rgba(47, 92, 79, 0.5);
+        border-radius: 20px;
+        width: 600px
+  
+      }
+      
+      /* Style the form fields */
+      label {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      
+      label > span {
+        margin-right: 10px;
+        width: 200px;
+        text-align: right;
+      }
+      
+      input[type="text"],
+      input[type="number"],
+      select {
+        margin-left: 10px;
+        padding: 5px;
+        width: 200px;
+      }
+      
+      /* Style the submit button */
+      button[type="submit"] {
+        margin-top: 20px;
+        padding: 10px;
+        width: 200px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom:20px;
+      }
+      
+      button[type="submit"]:hover {
+        background-color: #3e8e41;
+      }
+      
+      /* Style the output container */
+      .output-container {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        font-size: 18px;
+        font-weight: bold;
+      }
+    </style>
+</head>
+<body>
+    <h1>Loan Default Prediction</h1>
+    <div class="form-container">
+        <form id="loan-form" style="display:flex; flex-direction:column;" action ="{{ url_for('submit_form')}}" method="post">
+          <label style = "margin-top:20px">
+            <span>Applicant ID:</span>
+            <input type="text" id="applicant-id" name="applicant-id" required="required">
+          </label>
+          <label>
+            <span>Primary Applicant Age:</span>
+            <input type="number" id="applicant-age" name = "Primary_applicant_age_in_years" required="required">
+          </label>
+          <label>
+            <span>Years at Current Residence:</span>
+            <input type="number" id="years-residence" name="Years_at_current_residence" required="required">
+          </label>
+          <label>
+            <span>Months Loan Taken For:</span>
+            <input type="number" id="months-loan" name="Months_loan_taken_for" required="required">
+          </label>
+          <label>
+            <span>Principal Loan Amount:</span>
+            <input type="number" id="loan-amount" name = "Principal_loan_amount" required="required">
+          </label>
+          <label>
+            <span>Marital Status:</span>
+            <select id="marital-status" name="Marital_status" required>
+              <option value="" disabled selected hidden>Select Marital Status</option>
+              <option value="single">Single</option>
+              <option value="married">Married</option>
+              <option value="divorced">Divorced</option>
+              <option value="widowed">Widowed</option>
+            </select>
+          </label>
+          <label>
+            <span>Savings Account Balance:</span>
+            <select id="Savings-Account-Balance" name= "Savings_account_balance" required>
+                <option value="" disabled selected hidden>Select Account balance</option>
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+                <option value="Very high">Very high</option>
+              </select>
+            
+          </label>
+          <label>
+            <span>Purpose:</span>
+            <select id="loan-purpose" name="Purpose" required>
+              <option value="" disabled selected hidden>Select purpose</option>
+              <option value="electronic equipment">Electronic Equipment</option>
+              <option value="education">Education</option>
+              <option value="FF&E">FF&E</option>
+              <option value="new vehicle">New Vehicle</option>
+              <option value="used vehicle">Used Vehicle</option>
+              <option value="business">Business</option>
+              <option value="domestic appliances">Domestic Appliances</option>
+              <option value="repair costs">Repair Costs</option>
+              <option value="career development">Career Development</option>
+            </select>
+          </label>
+          <label>
+            <span>Property:</span>
+            <select id="property-type" name="Property" required>
+              <option value="" disabled selected hidden>Select property</option>
+              <option value="real estate">Real Estate</option>
+              <option value="building society savings agreement/life insurance">Savings Aggrement/Life Insurance</option>
+              <option value="car or other">Car or Other</option>
+           </select>
+          </label>
+         <label>
+            <span>Loan History:</span>
+            <select id="loan-history" name="Loan_history" required>
+              <option value="" disabled selected hidden>Select Loan History</option>
+              <option value="critical/pending loans at other banks">Pending Loans (other bank)</option>
+              <option value="existing loans paid back duly till now">paid loan</option>
+              <option value="delay in paying off loans in the past">Car or Other</option>
+              <option value ="no loans taken/all loans paid back duly">No loans taken</option>
+              <option value = "all loans at this bank paid back duly">Loan Paid(this bank)</option>
+           </select>
+          </label>
+          
+          
+          <label>
+            <span>Gender/Housing:</span>
+            <select id="Gender-Housing" name="gen_house" required>
+              <option value="" disabled selected hidden>Select Gender/Housing</option>
+              <option value="male & own">Male/Own</option>
+              <option value="female & own">Female/Own</option>
+              <option value="male & for free">Male/For free</option>
+              <option value ="male & rent">Male/Rent</option>
+              <option value = "female & rent">Female/ Rent</option>
+              <option value = "female & for free">Female/ for free</option>
+           </select>
+          </label>
+        
+          <div>
+            <button type="submit" style = "display:flex;align-items:center;justify-content:center;">Submit</button>
+          </div>
+          </form>
+        
+         
+    </div>
+    <div style="margin-top: 50px;"><h1>{{prediction_text}}</h1></div>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+,applicant_id,Primary_applicant_age_in_years,Years_at_current_residence,Months_loan_taken_for,Principal_loan_amount,Marital_status,Savings_account_balance,Purpose,Property,Loan_history,gen_house,high_risk_applicant
+0,1469590,67,4,6,1169000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+1,1203873,22,2,48,5951000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+2,1432761,49,3,12,2096000,single,Low,education,real estate,critical/pending loans at other banks,male & own,0
+3,1207582,45,4,42,7882000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & for free,0
+4,1674436,53,4,24,4870000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & for free,1
+5,1213971,35,4,36,9055000,single,Low,education,car or other,existing loans paid back duly till now,male & for free,0
+6,1428822,53,4,24,2835000,single,High,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+7,1705739,35,2,36,6948000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & rent,0
+8,1715169,61,4,12,3059000,divorced/separated,Very high,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+9,1722991,28,2,30,5234000,married/widowed,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,1
+10,1719964,25,1,12,1295000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,1
+11,1818043,24,4,48,4308000,divorced/separated/married,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,1
+12,1231297,22,1,12,1567000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+13,1172292,60,4,24,1199000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,1
+14,1154808,28,4,15,1403000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,0
+15,1648542,32,2,24,1282000,divorced/separated/married,Medium,electronic equipment,car or other,existing loans paid back duly till now,female & own,1
+16,1193245,53,4,24,2424000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+17,1740408,25,3,30,8072000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & own,0
+18,1250076,44,2,24,12579000,divorced/separated/married,Low,used vehicle,car or other,existing loans paid back duly till now,female & for free,1
+19,1616625,31,2,24,3430000,single,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+20,1428429,48,4,9,2134000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+21,1272219,44,3,6,2647000,single,High,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+22,1771414,48,3,10,2241000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & rent,0
+23,1666563,44,4,12,1804000,single,Medium,used vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+24,1847764,26,1,10,2069000,married/widowed,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+25,1138996,36,2,6,1374000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+26,1578742,39,4,6,426000,married/widowed,Low,electronic equipment,car or other,no loans taken/all loans paid back duly,male & own,0
+27,1709277,42,3,12,409000,divorced/separated/married,Very high,electronic equipment,real estate,all loans at this bank paid back duly,female & rent,0
+28,1508823,34,2,7,2415000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+29,1323870,63,4,60,6836000,single,Low,business,car or other,delay in paying off loans in the past,male & own,1
+30,1414851,36,3,18,1913000,married/widowed,Very high,business,real estate,existing loans paid back duly till now,male & own,0
+31,1764281,27,2,24,4020000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+32,1291798,30,2,18,5866000,single,Medium,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+33,1873969,57,4,12,1264000,single,Low,business,car or other,critical/pending loans at other banks,male & rent,0
+34,1888210,33,1,12,1474000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+35,1547494,25,2,45,4746000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+36,1674114,31,3,48,6110000,single,Low,education,car or other,critical/pending loans at other banks,male & for free,0
+37,1330233,37,2,18,2100000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+38,1443666,37,2,10,1225000,single,Low,domestic appliances,car or other,existing loans paid back duly till now,male & own,0
+39,1574283,24,3,9,458000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+40,1866940,30,2,30,2333000,single,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+41,1188917,26,1,12,1158000,divorced/separated,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+42,1491485,44,4,18,6204000,single,Low,repair costs,real estate,delay in paying off loans in the past,male & own,0
+43,1381317,24,4,30,6187000,married/widowed,Medium,used vehicle,car or other,critical/pending loans at other banks,male & rent,0
+44,1246402,58,4,48,6143000,divorced/separated/married,Low,used vehicle,car or other,critical/pending loans at other banks,female & for free,1
+45,1641291,35,4,11,1393000,divorced/separated/married,Low,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+46,1716706,39,4,36,2299000,single,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+47,1395153,23,2,6,1352000,divorced/separated/married,High,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+48,1697859,39,4,11,7228000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+49,1193227,28,2,12,2073000,divorced/separated/married,Medium,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+50,1850736,29,2,24,2333000,single,Low,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+51,1771270,30,2,27,5965000,single,Low,used vehicle,car or other,delay in paying off loans in the past,male & own,0
+52,1840431,25,2,12,1262000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+53,1502325,31,1,18,3378000,single,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+54,1151072,57,4,36,2225000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & for free,1
+55,1875288,26,2,6,783000,single,Low,new vehicle,real estate,all loans at this bank paid back duly,male & own,0
+56,1361963,52,1,12,6468000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+57,1599723,31,2,36,9566000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+58,1438784,23,2,18,1961000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+59,1274604,23,4,36,6229000,divorced/separated/married,Low,FF&E,car or other,critical/pending loans at other banks,female & rent,1
+60,1548860,27,1,9,1391000,married/widowed,Low,business,real estate,existing loans paid back duly till now,male & own,0
+61,1570047,50,4,15,1537000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+62,1825757,61,4,36,1953000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & for free,1
+63,1304525,25,2,48,14421000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & own,1
+64,1750074,26,4,24,3181000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+65,1134752,48,4,27,5190000,single,Low,repair costs,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+66,1505713,29,2,12,2171000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+67,1724003,22,1,12,1007000,married/widowed,Very high,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+68,1388519,37,4,36,1819000,single,Low,education,car or other,existing loans paid back duly till now,male & for free,1
+69,1724882,25,4,36,2394000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+70,1463336,30,2,36,8133000,divorced/separated/married,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+71,1804919,46,2,7,730000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & rent,0
+72,1591747,51,4,8,1164000,single,Low,career development,car or other,critical/pending loans at other banks,male & for free,0
+73,1743709,41,1,42,5954000,divorced/separated/married,Low,business,real estate,critical/pending loans at other banks,female & own,0
+74,1472593,40,4,36,1977000,single,Low,education,car or other,existing loans paid back duly till now,male & own,1
+75,1641977,66,4,12,1526000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+76,1649753,34,3,42,3965000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+77,1149571,51,4,11,4771000,single,Low,electronic equipment,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+78,1691240,39,2,54,9436000,single,Low,used vehicle,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & own,0
+79,1838961,22,1,30,3832000,married/widowed,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+80,1403464,44,1,24,5943000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,1
+81,1646022,47,3,15,1213000,single,High,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+82,1106801,24,4,18,1568000,divorced/separated/married,Medium,business,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+83,1616296,58,4,24,1755000,divorced/separated/married,Low,domestic appliances,real estate,existing loans paid back duly till now,female & own,0
+84,1238277,52,4,10,2315000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+85,1175457,29,2,12,1412000,divorced/separated/married,Low,business,real estate,critical/pending loans at other banks,female & own,0
+86,1576577,27,1,18,1295000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+87,1586725,47,4,36,12612000,single,Medium,education,car or other,existing loans paid back duly till now,male & for free,1
+88,1660853,30,3,18,2249000,single,Medium,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+89,1132472,28,3,12,1108000,single,Low,repair costs,real estate,no loans taken/all loans paid back duly,male & own,1
+90,1368120,56,4,12,618000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+91,1403185,54,3,12,1409000,single,Low,used vehicle,real estate,critical/pending loans at other banks,male & own,0
+92,1601892,33,3,12,797000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,1
+93,1220273,20,4,24,3617000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & rent,0
+94,1713632,54,4,12,1318000,single,Very high,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+95,1416025,58,4,54,15945000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & rent,1
+96,1610826,61,2,12,2012000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & own,0
+97,1887006,34,4,18,2622000,single,Medium,business,car or other,existing loans paid back duly till now,male & own,0
+98,1570732,36,4,36,2337000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+99,1617889,36,4,20,7057000,single,Low,used vehicle,building society savings agreement/life insurance,delay in paying off loans in the past,male & rent,0
+100,1318902,41,4,24,1469000,married/widowed,Medium,new vehicle,real estate,existing loans paid back duly till now,male & rent,0
+101,1466716,24,4,36,2323000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & rent,0
+102,1621669,24,2,6,932000,divorced/separated/married,Low,electronic equipment,real estate,delay in paying off loans in the past,female & own,0
+103,1901818,35,3,9,1919000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & rent,0
+104,1114473,26,4,12,2445000,married/widowed,Low,used vehicle,car or other,existing loans paid back duly till now,male & rent,0
+105,1514853,39,3,24,11938000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,1
+106,1645589,39,4,18,6458000,single,Low,new vehicle,car or other,all loans at this bank paid back duly,male & own,1
+107,1504772,32,2,12,6078000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+108,1698579,30,2,24,7721000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+109,1754975,35,2,14,1410000,married/widowed,High,business,real estate,existing loans paid back duly till now,male & own,0
+110,1222155,31,2,6,1449000,divorced/separated,Medium,business,car or other,delay in paying off loans in the past,male & own,0
+111,1719636,23,4,15,392000,divorced/separated/married,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+112,1323966,28,3,18,6260000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & rent,0
+113,1683052,25,2,36,7855000,divorced/separated/married,Low,new vehicle,real estate,critical/pending loans at other banks,female & own,1
+114,1405004,35,1,12,1680000,married/widowed,High,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+115,1848791,47,1,48,3578000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+116,1229152,30,3,42,7174000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,1
+117,1206049,27,3,10,2132000,divorced/separated/married,Low,FF&E,real estate,critical/pending loans at other banks,female & rent,0
+118,1651983,23,4,33,4281000,divorced/separated/married,High,FF&E,car or other,critical/pending loans at other banks,female & own,1
+119,1357789,36,3,12,2366000,divorced/separated,High,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+120,1506336,25,2,21,1835000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+121,1171493,41,2,24,3868000,divorced/separated/married,Low,used vehicle,car or other,critical/pending loans at other banks,female & rent,0
+122,1278346,24,2,12,1768000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & rent,0
+123,1852036,63,4,10,781000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & for free,0
+124,1717438,27,3,18,1924000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,1
+125,1168894,30,2,12,2121000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+126,1169906,40,2,12,701000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+127,1693022,30,2,12,639000,single,Low,repair costs,car or other,existing loans paid back duly till now,male & own,1
+128,1125378,34,2,12,1860000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+129,1355140,29,2,12,3499000,divorced/separated/married,Low,new vehicle,real estate,critical/pending loans at other banks,female & own,1
+130,1156488,24,2,48,8487000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+131,1817517,29,3,36,6887000,single,Low,education,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,1
+132,1183266,27,3,15,2708000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+133,1834069,47,4,18,1984000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & for free,0
+134,1501095,21,4,60,10144000,divorced/separated/married,Medium,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+135,1577050,38,2,12,1240000,divorced/separated/married,Low,electronic equipment,real estate,critical/pending loans at other banks,female & own,0
+136,1601894,27,2,27,8613000,single,Very high,used vehicle,car or other,delay in paying off loans in the past,male & own,0
+137,1376069,66,3,12,766000,single,High,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+138,1450465,35,2,15,2728000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+139,1565903,44,2,12,1881000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & rent,0
+140,1124574,27,2,6,709000,married/widowed,Very high,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+141,1432828,30,1,36,4795000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+142,1682758,27,2,27,3416000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+143,1902944,22,2,18,2462000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+144,1774498,23,4,21,2288000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+145,1411456,30,2,48,3566000,single,Medium,business,car or other,all loans at this bank paid back duly,male & own,0
+146,1387053,39,4,6,860000,divorced/separated/married,Low,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+147,1563602,51,3,12,682000,divorced/separated/married,Medium,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+148,1901178,28,2,36,5371000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+149,1841686,46,4,18,1582000,single,Very high,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+150,1403203,42,4,6,1346000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & for free,0
+151,1448565,38,4,10,1924000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+152,1538125,24,1,36,5848000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+153,1115975,29,4,24,7758000,divorced/separated/married,Very high,used vehicle,car or other,critical/pending loans at other banks,female & rent,0
+154,1230615,36,4,24,6967000,single,Medium,business,car or other,delay in paying off loans in the past,male & rent,0
+155,1841503,20,4,12,1282000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & rent,1
+156,1321123,48,4,9,1288000,single,Medium,repair costs,real estate,critical/pending loans at other banks,male & own,0
+157,1691733,45,1,12,339000,married/widowed,Low,career development,car or other,all loans at this bank paid back duly,male & own,0
+158,1680095,38,3,24,3512000,single,Medium,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+159,1660328,34,2,6,1898000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+160,1187072,36,4,24,2872000,single,Medium,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+161,1460273,30,1,18,1055000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+162,1138817,36,3,15,1262000,single,High,domestic appliances,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+163,1628583,70,4,10,7308000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,0
+164,1734823,36,4,36,909000,single,High,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+165,1280180,32,2,6,2978000,single,High,FF&E,car or other,existing loans paid back duly till now,male & own,0
+166,1279502,33,2,18,1131000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,1
+167,1699886,20,1,11,1577000,divorced/separated/married,Very high,FF&E,real estate,existing loans paid back duly till now,female & own,0
+168,1183811,25,4,24,3972000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+169,1775311,31,4,24,1935000,divorced/separated,Low,business,real estate,critical/pending loans at other banks,male & own,1
+170,1770037,33,3,15,950000,single,Low,new vehicle,car or other,no loans taken/all loans paid back duly,male & rent,1
+171,1420832,26,1,12,763000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & own,0
+172,1388983,34,2,24,2064000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,female & own,1
+173,1827797,33,2,8,1414000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+174,1758397,26,1,21,3414000,single,Low,education,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,1
+175,1126090,53,1,30,7485000,divorced/separated/married,Low,used vehicle,real estate,all loans at this bank paid back duly,female & own,1
+176,1653715,42,1,12,2577000,divorced/separated,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+177,1534783,52,4,6,338000,single,High,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+178,1705627,31,2,12,1963000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & rent,0
+179,1156764,65,4,21,571000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+180,1351247,28,1,36,9572000,divorced/separated,Low,business,car or other,delay in paying off loans in the past,male & own,1
+181,1324848,30,2,36,4455000,divorced/separated,Low,business,real estate,delay in paying off loans in the past,male & own,1
+182,1706494,40,2,21,1647000,single,Low,new vehicle,building society savings agreement/life insurance,all loans at this bank paid back duly,male & own,1
+183,1325093,50,4,24,3777000,single,Very high,FF&E,real estate,critical/pending loans at other banks,male & own,0
+184,1168078,36,4,18,884000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,1
+185,1625627,31,2,15,1360000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+186,1645519,74,4,9,5129000,divorced/separated/married,Low,used vehicle,car or other,all loans at this bank paid back duly,female & for free,1
+187,1308726,68,3,16,1175000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & for free,0
+188,1460398,20,1,12,674000,married/widowed,Medium,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+189,1802699,33,4,18,3244000,divorced/separated/married,Low,FF&E,car or other,no loans taken/all loans paid back duly,female & own,0
+190,1693215,54,3,24,4591000,single,Very high,business,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+191,1493175,34,4,48,3844000,single,Medium,business,car or other,no loans taken/all loans paid back duly,male & for free,1
+192,1387043,36,2,27,3915000,single,Low,business,car or other,existing loans paid back duly till now,male & own,1
+193,1603493,29,2,6,2108000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+194,1807486,21,4,45,3031000,single,Medium,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,1
+195,1543290,34,3,9,1501000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & own,1
+196,1468750,28,1,6,1382000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+197,1849580,27,4,12,951000,divorced/separated/married,Medium,FF&E,car or other,existing loans paid back duly till now,female & rent,1
+198,1855241,36,4,24,2760000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+199,1709944,40,3,18,4297000,divorced/separated,Low,FF&E,car or other,delay in paying off loans in the past,male & own,1
+200,1781381,52,2,9,936000,single,High,education,car or other,critical/pending loans at other banks,male & own,0
+201,1505411,27,3,12,1168000,married/widowed,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+202,1662647,26,4,27,5117000,single,Low,business,car or other,delay in paying off loans in the past,male & own,0
+203,1277108,21,4,12,902000,married/widowed,Low,career development,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,1
+204,1632379,38,1,12,1495000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+205,1232889,38,4,30,10623000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+206,1729265,43,4,12,1935000,single,Low,FF&E,real estate,critical/pending loans at other banks,male & own,0
+207,1266769,26,3,12,1424000,single,Low,domestic appliances,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+208,1457378,21,2,24,6568000,married/widowed,Low,business,car or other,existing loans paid back duly till now,male & own,0
+209,1241829,55,2,12,1413000,single,Very high,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+210,1586696,33,2,9,3074000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+211,1878718,45,4,36,3835000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+212,1613024,50,4,27,5293000,single,Low,business,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & own,1
+213,1781216,66,4,30,1908000,single,Low,business,real estate,delay in paying off loans in the past,male & own,1
+214,1529476,51,2,36,3342000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+215,1680133,39,3,6,932000,divorced/separated/married,Low,career development,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+216,1671701,31,1,18,3104000,single,Low,business,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & own,0
+217,1698484,23,2,36,3913000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+218,1482932,24,2,24,3021000,divorced/separated,Low,FF&E,real estate,existing loans paid back duly till now,male & rent,0
+219,1332984,64,4,10,1364000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+220,1280672,26,1,12,625000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+221,1622064,23,4,12,1200000,divorced/separated/married,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+222,1593121,30,2,12,707000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+223,1128002,32,4,24,2978000,single,Low,business,real estate,delay in paying off loans in the past,male & own,0
+224,1761229,30,2,15,4657000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+225,1564360,27,2,36,2613000,single,Low,repair costs,car or other,no loans taken/all loans paid back duly,male & own,0
+226,1749949,27,2,48,10961000,single,Very high,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+227,1468094,53,4,12,7865000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & for free,1
+228,1857654,22,2,9,1478000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+229,1785759,22,1,24,3149000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & for free,0
+230,1596358,26,2,36,4210000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+231,1515190,51,4,9,2507000,single,High,new vehicle,car or other,existing loans paid back duly till now,male & for free,0
+232,1720597,35,1,12,2141000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+233,1487170,25,2,18,866000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+234,1570458,42,1,4,1544000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+235,1216325,30,2,24,1823000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+236,1810247,23,2,6,14555000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+237,1303121,61,2,21,2767000,divorced/separated,Medium,business,car or other,existing loans paid back duly till now,male & rent,1
+238,1755306,35,2,12,1291000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+239,1429938,39,3,30,2522000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+240,1255291,29,2,24,915000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,1
+241,1766084,51,2,6,1595000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+242,1598979,24,4,48,4605000,single,Low,used vehicle,car or other,no loans taken/all loans paid back duly,male & for free,1
+243,1700009,27,2,12,1185000,divorced/separated/married,Low,business,real estate,critical/pending loans at other banks,female & own,0
+244,1591456,35,3,12,3447000,divorced/separated/married,High,career development,real estate,all loans at this bank paid back duly,female & own,0
+245,1444099,25,1,24,1258000,single,Low,business,real estate,existing loans paid back duly till now,male & own,0
+246,1627604,52,4,12,717000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+247,1533746,35,1,6,1204000,single,Medium,new vehicle,car or other,no loans taken/all loans paid back duly,male & rent,0
+248,1659113,26,2,24,1925000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+249,1276035,22,4,18,433000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & rent,1
+250,1812017,39,4,6,666000,divorced/separated/married,Very high,new vehicle,real estate,critical/pending loans at other banks,female & own,0
+251,1540012,46,2,12,2251000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,0
+252,1582743,24,2,30,2150000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,1
+253,1891614,35,3,24,4151000,single,Medium,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+254,1685016,24,1,9,2030000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+255,1656238,27,1,60,7418000,single,Low,electronic equipment,real estate,delay in paying off loans in the past,male & own,0
+256,1444375,35,2,24,2684000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+257,1148952,29,1,12,2149000,divorced/separated,Low,electronic equipment,car or other,all loans at this bank paid back duly,male & for free,1
+258,1397248,23,4,15,3812000,divorced/separated/married,Medium,used vehicle,car or other,existing loans paid back duly till now,female & own,0
+259,1513777,57,4,11,1154000,divorced/separated/married,Medium,electronic equipment,real estate,critical/pending loans at other banks,female & own,0
+260,1352424,27,2,12,1657000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+261,1585697,55,4,24,1603000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+262,1552427,36,4,18,5302000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & for free,0
+263,1194650,57,4,12,2748000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & for free,0
+264,1516910,32,4,10,1231000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+265,1847834,37,3,15,802000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+266,1647128,36,4,36,6304000,single,Low,business,real estate,critical/pending loans at other banks,male & own,0
+267,1232944,38,3,24,1533000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+268,1310758,45,4,14,8978000,divorced/separated,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+269,1650945,25,2,24,999000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+270,1193039,32,3,18,2662000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+271,1753115,37,4,12,1402000,divorced/separated/married,High,FF&E,car or other,critical/pending loans at other banks,female & rent,0
+272,1799149,36,4,48,12169000,single,Low,new vehicle,car or other,all loans at this bank paid back duly,male & for free,0
+273,1152260,28,4,48,3060000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+274,1522384,34,1,30,11998000,divorced/separated,Low,repair costs,car or other,existing loans paid back duly till now,male & own,1
+275,1826417,32,2,9,2697000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+276,1860196,26,2,18,2404000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+277,1832835,49,4,12,1262000,divorced/separated,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+278,1268091,32,4,6,4611000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+279,1755105,29,4,24,1901000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & rent,0
+280,1769868,23,4,15,3368000,single,Very high,used vehicle,car or other,critical/pending loans at other banks,male & rent,0
+281,1243419,50,2,12,1574000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+282,1131444,49,4,18,1445000,single,Low,electronic equipment,car or other,all loans at this bank paid back duly,male & own,0
+283,1844436,63,4,15,1520000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+284,1856693,37,2,24,3878000,divorced/separated,Medium,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+285,1405233,35,1,47,10722000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & own,0
+286,1442483,26,3,48,4788000,single,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+287,1761078,31,4,48,7582000,single,Medium,used vehicle,car or other,delay in paying off loans in the past,male & for free,0
+288,1838488,49,4,12,1092000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+289,1379318,48,4,24,1024000,married/widowed,Low,electronic equipment,real estate,delay in paying off loans in the past,male & own,1
+290,1688183,26,2,12,1076000,married/widowed,Low,business,real estate,existing loans paid back duly till now,male & own,0
+291,1340983,28,4,36,9398000,married/widowed,Low,used vehicle,car or other,existing loans paid back duly till now,male & rent,1
+292,1163798,44,4,24,6419000,divorced/separated/married,Low,used vehicle,car or other,critical/pending loans at other banks,female & for free,0
+293,1225433,56,4,42,4796000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+294,1563134,46,2,48,7629000,divorced/separated,Low,business,car or other,critical/pending loans at other banks,male & own,0
+295,1559877,26,2,48,9960000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,1
+296,1437216,20,4,12,4675000,divorced/separated/married,Low,used vehicle,car or other,existing loans paid back duly till now,female & rent,0
+297,1347244,45,2,10,1287000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+298,1124063,43,4,18,2515000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+299,1395426,32,2,21,2745000,single,Very high,FF&E,car or other,critical/pending loans at other banks,male & own,0
+300,1313483,54,4,6,672000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & own,0
+301,1704941,42,1,36,3804000,divorced/separated/married,Low,electronic equipment,car or other,no loans taken/all loans paid back duly,female & own,1
+302,1420165,37,2,24,1344000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,1
+303,1600427,49,3,10,1038000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+304,1722344,44,2,48,10127000,single,High,new vehicle,car or other,critical/pending loans at other banks,male & for free,1
+305,1535647,33,2,6,1543000,divorced/separated,Very high,FF&E,real estate,existing loans paid back duly till now,male & own,0
+306,1774831,24,4,30,4811000,divorced/separated/married,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+307,1385836,33,3,12,727000,married/widowed,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+308,1211897,24,4,8,1237000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & own,1
+309,1241781,22,4,9,276000,married/widowed,Low,new vehicle,real estate,existing loans paid back duly till now,male & rent,0
+310,1538187,40,4,48,5381000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+311,1770099,25,1,24,5511000,single,Medium,FF&E,car or other,existing loans paid back duly till now,male & own,0
+312,1246068,26,4,24,3749000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,0
+313,1738925,25,3,12,685000,married/widowed,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+314,1546660,29,2,4,1494000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+315,1363538,31,4,36,2746000,single,Low,FF&E,car or other,all loans at this bank paid back duly,male & own,1
+316,1173975,38,3,12,708000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+317,1527645,48,4,24,4351000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+318,1269451,32,2,12,701000,single,Low,education,car or other,critical/pending loans at other banks,male & own,0
+319,1635930,27,4,15,3643000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,female & own,0
+320,1443537,28,2,30,4249000,married/widowed,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,1
+321,1366526,32,3,24,1938000,divorced/separated,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+322,1492566,34,1,24,2910000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+323,1212992,28,2,18,2659000,single,Very high,FF&E,car or other,existing loans paid back duly till now,male & own,0
+324,1449219,36,3,18,1028000,divorced/separated/married,Low,new vehicle,real estate,critical/pending loans at other banks,female & own,0
+325,1113782,39,4,8,3398000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+326,1127014,49,4,12,5801000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & rent,0
+327,1730202,34,3,24,1525000,divorced/separated/married,Very high,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+328,1831874,31,2,36,4473000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+329,1839770,28,4,6,1068000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+330,1397184,75,4,24,6615000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+331,1893558,30,2,18,1864000,divorced/separated/married,Medium,education,real estate,critical/pending loans at other banks,female & own,1
+332,1392044,24,2,60,7408000,divorced/separated/married,Medium,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+333,1658501,24,4,48,11590000,divorced/separated/married,Medium,used vehicle,car or other,critical/pending loans at other banks,female & rent,1
+334,1749671,23,4,24,4110000,single,Low,FF&E,car or other,no loans taken/all loans paid back duly,male & rent,1
+335,1497135,44,4,6,3384000,divorced/separated,Low,FF&E,real estate,critical/pending loans at other banks,male & rent,1
+336,1742101,23,4,13,2101000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+337,1674059,24,2,15,1275000,divorced/separated/married,Low,domestic appliances,car or other,existing loans paid back duly till now,female & rent,1
+338,1507864,28,4,24,4169000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+339,1191977,31,2,10,1521000,divorced/separated,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+340,1572898,24,4,24,5743000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & for free,0
+341,1193436,26,4,21,3599000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & rent,0
+342,1182073,25,3,18,3213000,married/widowed,High,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+343,1424965,33,1,18,4439000,single,Low,business,real estate,existing loans paid back duly till now,male & own,0
+344,1608183,37,1,10,3949000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+345,1473941,43,2,15,1459000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+346,1540515,23,4,13,882000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+347,1318823,23,4,24,3758000,divorced/separated/married,High,electronic equipment,car or other,existing loans paid back duly till now,female & rent,0
+348,1545574,34,2,6,1743000,single,Medium,business,real estate,delay in paying off loans in the past,male & own,0
+349,1408229,32,3,9,1136000,single,Very high,education,car or other,critical/pending loans at other banks,male & for free,1
+350,1605868,23,4,9,1236000,divorced/separated/married,Low,domestic appliances,real estate,existing loans paid back duly till now,female & rent,0
+351,1176865,29,2,9,959000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,1
+352,1806619,38,4,18,3229000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+353,1273483,28,2,12,6199000,single,Low,electronic equipment,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & rent,1
+354,1754537,46,4,10,727000,single,High,education,car or other,existing loans paid back duly till now,male & for free,0
+355,1419059,23,2,24,1246000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,1
+356,1141822,49,4,12,2331000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+357,1825588,26,2,36,4463000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & own,1
+358,1426103,28,2,12,776000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+359,1227016,23,4,30,2406000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,1
+360,1750981,61,4,18,1239000,single,Low,education,car or other,existing loans paid back duly till now,male & for free,0
+361,1805732,37,3,12,3399000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+362,1144294,36,2,12,2247000,divorced/separated/married,Low,new vehicle,car or other,delay in paying off loans in the past,female & own,0
+363,1476733,21,2,6,1766000,married/widowed,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+364,1331656,25,1,18,2473000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+365,1377901,36,4,12,1542000,single,Low,business,car or other,existing loans paid back duly till now,male & own,0
+366,1213250,27,1,18,3850000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+367,1787350,22,4,18,3650000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & rent,0
+368,1488941,42,2,36,3446000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+369,1435055,40,4,18,3001000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+370,1471101,36,4,36,3079000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+371,1312020,33,4,18,6070000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+372,1511094,23,3,10,2146000,divorced/separated/married,Low,FF&E,real estate,critical/pending loans at other banks,female & rent,0
+373,1703409,63,4,60,13756000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & for free,0
+374,1663400,60,4,60,14782000,divorced/separated/married,Medium,used vehicle,car or other,all loans at this bank paid back duly,female & for free,1
+375,1632577,37,4,48,7685000,divorced/separated/married,Low,business,car or other,all loans at this bank paid back duly,female & rent,1
+376,1711334,34,3,18,2320000,married/widowed,Low,electronic equipment,real estate,delay in paying off loans in the past,male & own,0
+377,1820644,36,4,7,846000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & for free,0
+378,1633625,57,2,36,14318000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+379,1493373,52,4,6,362000,divorced/separated/married,Medium,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+380,1140091,39,4,20,2212000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+381,1530567,38,4,18,12976000,divorced/separated/married,Low,used vehicle,car or other,existing loans paid back duly till now,female & for free,1
+382,1560648,25,4,22,1283000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+383,1835901,26,1,12,1330000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+384,1446865,26,2,30,4272000,single,Medium,business,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+385,1159806,25,1,18,2238000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+386,1198484,21,2,18,1126000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & rent,0
+387,1900089,40,4,18,7374000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+388,1466824,27,4,15,2326000,single,High,business,car or other,critical/pending loans at other banks,male & own,0
+389,1428226,27,2,9,1449000,divorced/separated/married,Low,business,car or other,existing loans paid back duly till now,female & own,0
+390,1590101,30,2,18,1820000,married/widowed,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+391,1655095,19,4,12,983000,divorced/separated/married,Very high,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+392,1221103,39,4,36,3249000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,0
+393,1660809,31,4,6,1957000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+394,1221118,31,3,9,2406000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+395,1462188,32,3,39,11760000,single,Medium,education,car or other,delay in paying off loans in the past,male & rent,0
+396,1461535,55,4,12,2578000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & for free,0
+397,1587786,46,2,36,2348000,married/widowed,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+398,1565522,46,1,12,1223000,divorced/separated,Low,new vehicle,real estate,existing loans paid back duly till now,male & rent,1
+399,1813841,43,1,24,1516000,divorced/separated/married,Very high,electronic equipment,real estate,critical/pending loans at other banks,female & own,0
+400,1393314,39,4,18,1473000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+401,1121764,28,4,18,1887000,married/widowed,Low,business,real estate,critical/pending loans at other banks,male & own,0
+402,1147492,27,2,24,8648000,single,Low,business,car or other,delay in paying off loans in the past,male & own,1
+403,1174819,27,2,14,802000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & own,0
+404,1623240,43,4,18,2899000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & own,0
+405,1766191,22,1,24,2039000,married/widowed,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+406,1437656,43,4,24,2197000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+407,1225095,27,2,15,1053000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+408,1755656,26,2,24,3235000,divorced/separated,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+409,1143716,28,2,12,939000,married/widowed,High,new vehicle,real estate,critical/pending loans at other banks,male & own,1
+410,1465874,20,4,24,1967000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+411,1661563,35,2,33,7253000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+412,1238022,42,2,12,2292000,single,Low,business,car or other,critical/pending loans at other banks,male & own,1
+413,1276723,40,2,10,1597000,single,High,new vehicle,car or other,existing loans paid back duly till now,male & rent,0
+414,1564344,35,2,24,1381000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+415,1774377,35,2,36,5842000,single,Low,used vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+416,1558926,33,1,12,2579000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,1
+417,1555430,23,2,18,8471000,divorced/separated/married,Low,education,car or other,delay in paying off loans in the past,female & rent,0
+418,1529020,31,2,21,2782000,divorced/separated/married,High,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+419,1291905,33,2,18,1042000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+420,1213257,20,3,15,3186000,divorced/separated/married,Very high,new vehicle,car or other,existing loans paid back duly till now,female & rent,0
+421,1388888,30,2,12,2028000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+422,1186232,47,3,12,958000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+423,1358802,34,3,21,1591000,single,Medium,FF&E,real estate,delay in paying off loans in the past,male & own,0
+424,1703163,25,2,12,2762000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+425,1581463,21,3,18,2779000,married/widowed,Low,used vehicle,car or other,existing loans paid back duly till now,male & rent,0
+426,1412269,29,2,28,2743000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+427,1787696,46,3,18,1149000,single,Very high,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+428,1657309,20,4,9,1313000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+429,1817813,55,4,18,1190000,divorced/separated/married,Low,repair costs,car or other,critical/pending loans at other banks,female & for free,1
+430,1534316,74,4,5,3448000,single,Low,business,real estate,existing loans paid back duly till now,male & own,0
+431,1304185,29,3,24,11328000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,1
+432,1714829,36,4,6,1872000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & for free,0
+433,1796503,33,2,24,2058000,divorced/separated,Low,repair costs,real estate,critical/pending loans at other banks,male & own,0
+434,1336695,25,2,9,2136000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+435,1879817,25,1,12,1484000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+436,1779410,23,4,6,660000,married/widowed,High,repair costs,real estate,existing loans paid back duly till now,male & rent,0
+437,1727640,37,4,24,1287000,divorced/separated/married,Very high,new vehicle,real estate,critical/pending loans at other banks,female & own,0
+438,1119602,65,4,42,3394000,single,Low,repair costs,car or other,critical/pending loans at other banks,male & own,0
+439,1548375,26,1,12,609000,divorced/separated/married,Low,business,real estate,all loans at this bank paid back duly,female & own,1
+440,1515084,39,4,12,1884000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+441,1523394,30,3,12,1620000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+442,1327436,29,3,20,2629000,single,Low,repair costs,car or other,delay in paying off loans in the past,male & own,0
+443,1769463,41,4,12,719000,single,Low,education,car or other,existing loans paid back duly till now,male & own,1
+444,1454649,30,3,48,5096000,divorced/separated/married,Low,FF&E,car or other,critical/pending loans at other banks,female & own,1
+445,1282543,41,4,9,1244000,divorced/separated/married,Low,education,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,0
+446,1604148,34,4,36,1842000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,1
+447,1461545,35,2,7,2576000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+448,1579121,55,4,12,1424000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & own,0
+449,1662555,61,3,15,1512000,married/widowed,Very high,repair costs,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,1
+450,1451745,30,2,36,11054000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+451,1590235,29,1,6,518000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+452,1610382,34,4,12,2759000,single,Low,FF&E,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & own,0
+453,1611614,35,4,24,2670000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+454,1790490,31,3,24,4817000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+455,1396015,29,1,24,2679000,divorced/separated/married,Low,used vehicle,car or other,existing loans paid back duly till now,female & own,0
+456,1140019,36,2,11,3905000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & rent,0
+457,1751876,35,4,12,3386000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,1
+458,1344543,27,1,6,343000,divorced/separated/married,Low,domestic appliances,real estate,existing loans paid back duly till now,female & own,0
+459,1486366,32,2,18,4594000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+460,1862524,37,2,36,3620000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+461,1794199,36,3,15,1721000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+462,1114695,34,1,12,3017000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+463,1252248,38,4,12,754000,single,Low,career development,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+464,1333603,34,1,18,1950000,single,Low,business,car or other,existing loans paid back duly till now,male & own,0
+465,1253927,63,4,24,2924000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+466,1255808,29,2,24,1659000,divorced/separated/married,Low,electronic equipment,car or other,delay in paying off loans in the past,female & rent,1
+467,1777177,32,3,48,7238000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & own,0
+468,1347859,26,2,33,2764000,divorced/separated/married,Low,business,car or other,delay in paying off loans in the past,female & own,0
+469,1179829,35,3,24,4679000,single,Low,used vehicle,car or other,delay in paying off loans in the past,male & own,0
+470,1584896,22,2,24,3092000,married/widowed,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & rent,1
+471,1165835,23,4,6,448000,divorced/separated/married,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+472,1420000,28,3,9,654000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+473,1792340,36,4,6,1238000,single,Low,career development,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+474,1154530,33,2,18,1245000,married/widowed,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,1
+475,1464283,26,4,18,3114000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,no loans taken/all loans paid back duly,female & rent,1
+476,1643578,24,4,39,2569000,single,High,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+477,1724729,25,2,24,5152000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+478,1305749,39,4,12,1037000,single,Medium,business,real estate,existing loans paid back duly till now,male & own,0
+479,1640580,44,4,15,1478000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+480,1572070,23,1,12,3573000,divorced/separated/married,Low,electronic equipment,real estate,critical/pending loans at other banks,female & own,0
+481,1719894,26,1,24,1201000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+482,1179715,57,4,30,3622000,divorced/separated/married,Very high,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+483,1648432,30,2,15,960000,divorced/separated/married,Very high,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,female & own,0
+484,1809085,44,4,12,1163000,single,High,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+485,1595096,47,4,6,1209000,single,Low,new vehicle,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,1
+486,1280201,52,4,12,3077000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+487,1512766,62,4,24,3757000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & for free,0
+488,1355440,35,2,10,1418000,single,Medium,new vehicle,real estate,existing loans paid back duly till now,male & rent,0
+489,1237459,26,3,6,3518000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+490,1874619,26,2,12,1934000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+491,1867397,42,4,27,8318000,divorced/separated/married,Low,business,car or other,no loans taken/all loans paid back duly,female & for free,1
+492,1797961,27,1,6,1237000,divorced/separated/married,Medium,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+493,1773539,38,4,6,368000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+494,1518424,39,2,12,2122000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & rent,0
+495,1833845,20,4,24,2996000,married/widowed,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+496,1728313,29,1,36,9034000,single,Medium,FF&E,car or other,existing loans paid back duly till now,male & rent,1
+497,1611295,40,3,24,1585000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+498,1680973,32,2,18,1301000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+499,1325678,28,4,6,1323000,divorced/separated,Medium,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+500,1566812,27,1,24,3123000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+501,1402031,42,4,36,5493000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+502,1787792,49,4,9,1126000,divorced/separated,Medium,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+503,1893730,38,4,24,1216000,single,Medium,electronic equipment,car or other,critical/pending loans at other banks,male & own,1
+504,1391963,24,4,24,1207000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,1
+505,1359833,27,4,10,1309000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+506,1860964,36,2,15,2360000,single,High,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+507,1397210,34,2,15,6850000,single,Medium,new vehicle,building society savings agreement/life insurance,all loans at this bank paid back duly,male & own,1
+508,1300113,28,2,24,1413000,married/widowed,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+509,1121978,45,2,39,8588000,single,Medium,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+510,1625109,26,2,12,759000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,1
+511,1591192,32,2,36,4686000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+512,1439117,26,4,15,2687000,single,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+513,1597948,20,4,12,585000,married/widowed,Low,electronic equipment,real estate,delay in paying off loans in the past,male & rent,0
+514,1436931,54,1,24,2255000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+515,1359864,37,3,6,609000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+516,1279507,40,4,6,1361000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+517,1250900,23,4,36,7127000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,1
+518,1672101,43,2,6,1203000,single,Medium,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+519,1541522,36,4,6,700000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & for free,0
+520,1542760,44,4,24,5507000,single,Low,repair costs,car or other,critical/pending loans at other banks,male & for free,0
+521,1312890,24,2,18,3190000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+522,1575976,53,4,48,7119000,single,Low,FF&E,car or other,no loans taken/all loans paid back duly,male & for free,1
+523,1300737,23,4,24,3488000,divorced/separated/married,Medium,used vehicle,car or other,existing loans paid back duly till now,female & own,0
+524,1579354,26,4,18,1113000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+525,1165396,30,3,26,7966000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+526,1845999,31,3,15,1532000,divorced/separated/married,Medium,education,car or other,critical/pending loans at other banks,female & own,0
+527,1836203,42,1,4,1503000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+528,1796884,31,4,36,2302000,divorced/separated,Low,electronic equipment,car or other,existing loans paid back duly till now,male & rent,1
+529,1545916,41,4,6,662000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+530,1666376,32,1,36,2273000,single,Low,education,car or other,existing loans paid back duly till now,male & own,0
+531,1337077,28,4,15,2631000,divorced/separated/married,Medium,new vehicle,car or other,existing loans paid back duly till now,female & rent,1
+532,1670246,41,4,12,1503000,married/widowed,Low,used vehicle,real estate,delay in paying off loans in the past,male & rent,0
+533,1112826,26,3,24,1311000,married/widowed,Medium,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+534,1321430,25,2,24,3105000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+535,1602400,33,1,21,2319000,divorced/separated,Low,education,car or other,critical/pending loans at other banks,male & rent,1
+536,1381249,75,3,6,1374000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+537,1815409,37,4,18,3612000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+538,1762049,42,4,48,7763000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+539,1776853,45,1,18,3049000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+540,1234944,23,1,12,1534000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,1
+541,1185915,60,4,24,2032000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & for free,0
+542,1355416,31,4,30,6350000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+543,1736265,34,1,18,2864000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,1
+544,1258426,61,4,12,1255000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+545,1836234,43,2,24,1333000,single,Low,new vehicle,real estate,delay in paying off loans in the past,male & for free,1
+546,1296879,37,4,24,2022000,divorced/separated/married,Low,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+547,1438110,32,1,24,1552000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+548,1667627,24,4,12,626000,divorced/separated/married,Low,electronic equipment,real estate,all loans at this bank paid back duly,female & own,1
+549,1862061,35,1,48,8858000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+550,1164275,23,4,12,996000,divorced/separated/married,Low,repair costs,real estate,critical/pending loans at other banks,female & own,0
+551,1863760,45,4,6,1750000,single,High,electronic equipment,building society savings agreement/life insurance,all loans at this bank paid back duly,male & own,0
+552,1199639,34,1,48,6999000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+553,1774959,27,1,12,1995000,single,Medium,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+554,1388041,67,4,9,1199000,divorced/separated/married,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+555,1210884,22,1,12,1331000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+556,1365814,28,3,18,2278000,divorced/separated/married,Medium,new vehicle,car or other,no loans taken/all loans paid back duly,female & own,1
+557,1115087,29,4,21,5003000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,no loans taken/all loans paid back duly,female & own,1
+558,1875951,27,4,24,3552000,single,Low,FF&E,car or other,all loans at this bank paid back duly,male & own,1
+559,1243348,31,2,18,1928000,single,Low,FF&E,real estate,critical/pending loans at other banks,male & own,1
+560,1178393,49,4,24,2964000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+561,1500502,24,4,24,1546000,single,Low,electronic equipment,car or other,all loans at this bank paid back duly,male & rent,1
+562,1892811,29,1,6,683000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,delay in paying off loans in the past,female & own,0
+563,1441760,37,4,36,12389000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+564,1738676,37,2,24,4712000,single,Low,business,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+565,1217305,23,2,24,1553000,divorced/separated/married,Medium,electronic equipment,building society savings agreement/life insurance,delay in paying off loans in the past,female & rent,0
+566,1662684,36,3,12,1372000,divorced/separated,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+567,1586917,34,2,24,2578000,single,Very high,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+568,1754897,41,1,48,3979000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+569,1857539,31,2,48,6758000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,1
+570,1463541,23,4,24,3234000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,1
+571,1607360,38,2,30,5954000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+572,1343586,26,4,24,5433000,divorced/separated/married,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+573,1109612,22,4,15,806000,divorced/separated/married,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+574,1432750,27,4,9,1082000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+575,1902302,24,3,15,2788000,divorced/separated/married,Low,FF&E,car or other,critical/pending loans at other banks,female & own,0
+576,1519801,27,1,12,2930000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+577,1312718,33,2,24,1927000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & own,0
+578,1554006,27,4,36,2820000,divorced/separated,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,1
+579,1492967,27,3,24,937000,married/widowed,Low,career development,car or other,existing loans paid back duly till now,male & own,0
+580,1442676,30,3,18,1056000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,1
+581,1378210,49,3,12,3124000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+582,1774767,26,2,9,1388000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+583,1635448,33,1,36,2384000,single,Low,repair costs,car or other,existing loans paid back duly till now,male & rent,1
+584,1143985,52,4,12,2133000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & for free,0
+585,1670066,20,4,18,2039000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,1
+586,1466670,36,2,9,2799000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & rent,0
+587,1447929,21,1,12,1289000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+588,1618937,47,3,18,1217000,married/widowed,Low,domestic appliances,real estate,existing loans paid back duly till now,male & own,1
+589,1873573,60,3,12,2246000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+590,1830977,58,3,12,385000,divorced/separated/married,Low,electronic equipment,real estate,critical/pending loans at other banks,female & own,0
+591,1612355,42,4,24,1965000,divorced/separated/married,Low,new vehicle,car or other,delay in paying off loans in the past,female & rent,0
+592,1165234,36,4,21,1572000,divorced/separated/married,Very high,business,real estate,existing loans paid back duly till now,female & own,0
+593,1825343,20,4,24,2718000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,1
+594,1307369,40,3,24,1358000,single,Low,domestic appliances,car or other,all loans at this bank paid back duly,male & own,1
+595,1403127,32,1,6,931000,divorced/separated/married,Medium,new vehicle,building society savings agreement/life insurance,all loans at this bank paid back duly,female & own,1
+596,1852152,23,4,24,1442000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,1
+597,1510937,36,4,24,4241000,single,Low,business,real estate,no loans taken/all loans paid back duly,male & own,1
+598,1354791,31,2,18,2775000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+599,1841389,32,2,24,3863000,single,Low,business,car or other,delay in paying off loans in the past,male & for free,0
+600,1854199,45,1,7,2329000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+601,1256236,30,1,9,918000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+602,1503339,34,4,24,1837000,divorced/separated/married,Low,education,car or other,all loans at this bank paid back duly,female & for free,1
+603,1500594,28,2,36,3349000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,1
+604,1462065,23,2,10,1275000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+605,1474361,22,4,24,2828000,single,High,FF&E,real estate,all loans at this bank paid back duly,male & own,0
+606,1764990,74,2,24,4526000,single,Low,business,real estate,critical/pending loans at other banks,male & own,0
+607,1621121,50,4,36,2671000,divorced/separated/married,Medium,electronic equipment,car or other,existing loans paid back duly till now,female & for free,1
+608,1365958,33,1,18,2051000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+609,1630681,45,4,15,1300000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+610,1448317,22,3,12,741000,divorced/separated/married,Medium,domestic appliances,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+611,1744762,48,4,10,1240000,divorced/separated/married,Medium,new vehicle,car or other,existing loans paid back duly till now,female & for free,1
+612,1655690,29,2,21,3357000,divorced/separated/married,Very high,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+613,1210184,22,4,24,3632000,divorced/separated/married,Low,used vehicle,car or other,all loans at this bank paid back duly,female & rent,0
+614,1113231,22,1,18,1808000,divorced/separated/married,Low,FF&E,real estate,delay in paying off loans in the past,female & own,1
+615,1476817,48,2,48,12204000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & own,0
+616,1143908,27,2,60,9157000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & for free,0
+617,1239641,37,3,6,3676000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & rent,0
+618,1826580,21,4,30,3441000,divorced/separated/married,Medium,FF&E,car or other,existing loans paid back duly till now,female & rent,1
+619,1826763,49,2,12,640000,divorced/separated,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+620,1747933,27,3,21,3652000,single,Low,business,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+621,1257777,32,2,18,1530000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+622,1687945,38,2,48,3914000,divorced/separated,Low,business,real estate,existing loans paid back duly till now,male & own,1
+623,1513000,22,1,12,1858000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & rent,0
+624,1502591,65,4,18,2600000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & for free,1
+625,1886102,35,2,15,1979000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+626,1597354,41,2,6,2116000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+627,1391760,29,3,9,1437000,single,Medium,new vehicle,car or other,all loans at this bank paid back duly,male & own,1
+628,1883131,36,4,42,4042000,single,High,FF&E,real estate,critical/pending loans at other banks,male & own,0
+629,1679090,64,4,9,3832000,single,Low,education,real estate,existing loans paid back duly till now,male & own,0
+630,1784512,28,4,24,3660000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+631,1326708,44,3,18,1553000,single,Low,FF&E,car or other,all loans at this bank paid back duly,male & own,1
+632,1443796,23,1,15,1444000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+633,1862135,19,2,9,1980000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & rent,1
+634,1432788,25,4,24,1355000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,1
+635,1707666,47,4,12,1393000,single,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+636,1349046,28,1,24,1376000,divorced/separated/married,High,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+637,1640552,21,4,60,15653000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & own,0
+638,1532989,34,3,12,1493000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+639,1300927,26,2,42,4370000,single,Low,electronic equipment,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,1
+640,1684799,27,1,18,750000,divorced/separated/married,Low,education,real estate,existing loans paid back duly till now,female & own,1
+641,1736925,38,4,15,1308000,single,Low,repair costs,car or other,existing loans paid back duly till now,male & own,0
+642,1156429,40,2,15,4623000,single,Medium,education,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+643,1495594,33,2,24,1851000,married/widowed,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+644,1732994,32,1,18,1880000,married/widowed,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+645,1532977,27,4,36,7980000,single,Low,business,car or other,delay in paying off loans in the past,male & rent,1
+646,1452733,32,2,30,4583000,divorced/separated,Low,FF&E,real estate,no loans taken/all loans paid back duly,male & own,0
+647,1304536,26,2,12,1386000,divorced/separated/married,High,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+648,1892638,38,3,24,947000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+649,1175174,40,4,12,684000,single,Low,education,car or other,existing loans paid back duly till now,male & rent,1
+650,1360939,50,1,48,7476000,single,Low,education,car or other,existing loans paid back duly till now,male & for free,0
+651,1637887,37,2,12,1922000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+652,1126684,45,1,24,2303000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,1
+653,1476071,42,4,36,8086000,single,Medium,new vehicle,car or other,delay in paying off loans in the past,male & own,1
+654,1764381,35,3,24,2346000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+655,1654707,22,4,14,3973000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,0
+656,1504819,41,4,12,888000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+657,1680877,37,3,48,10222000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+658,1439887,28,1,30,4221000,divorced/separated/married,Low,business,car or other,no loans taken/all loans paid back duly,female & own,0
+659,1237671,41,1,18,6361000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+660,1352279,23,4,12,1297000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+661,1409197,23,2,12,900000,married/widowed,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+662,1448066,50,2,21,2241000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & own,0
+663,1337177,35,1,6,1050000,single,Low,FF&E,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+664,1199661,50,4,6,1047000,divorced/separated/married,Low,education,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+665,1483329,27,2,24,6314000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+666,1401525,34,2,30,3496000,single,Very high,FF&E,car or other,all loans at this bank paid back duly,male & own,0
+667,1869013,27,1,48,3609000,divorced/separated/married,Low,business,real estate,all loans at this bank paid back duly,female & own,0
+668,1611783,43,4,12,4843000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & rent,1
+669,1837760,47,4,30,3017000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+670,1844813,27,3,24,4139000,single,Medium,business,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+671,1554792,31,2,36,5742000,single,Medium,business,car or other,existing loans paid back duly till now,male & own,0
+672,1771489,42,4,60,10366000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+673,1241112,24,2,6,2080000,married/widowed,High,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+674,1770970,41,2,21,2580000,single,High,business,real estate,delay in paying off loans in the past,male & own,1
+675,1373246,26,4,30,4530000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & rent,0
+676,1509620,33,4,24,5150000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+677,1142576,24,2,72,5595000,married/widowed,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+678,1671068,64,4,24,2384000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+679,1538199,26,1,18,1453000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+680,1482554,56,2,6,1538000,divorced/separated/married,Low,education,car or other,existing loans paid back duly till now,female & own,0
+681,1516876,37,4,12,2279000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & for free,0
+682,1586174,33,3,15,1478000,married/widowed,Low,electronic equipment,real estate,delay in paying off loans in the past,male & own,0
+683,1168229,47,3,24,5103000,married/widowed,Low,electronic equipment,car or other,critical/pending loans at other banks,male & for free,0
+684,1441925,31,3,36,9857000,single,Medium,business,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+685,1662345,34,4,60,6527000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,0
+686,1649933,27,2,10,1347000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+687,1168468,30,3,36,2862000,single,Medium,new vehicle,car or other,delay in paying off loans in the past,male & for free,0
+688,1875015,35,4,9,2753000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+689,1273850,31,3,12,3651000,single,Very high,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+690,1345875,25,3,15,975000,divorced/separated,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+691,1774355,25,2,15,2631000,divorced/separated/married,Medium,repair costs,real estate,existing loans paid back duly till now,female & own,0
+692,1626519,29,1,24,2896000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+693,1321826,44,3,6,4716000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+694,1412577,28,2,24,2284000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+695,1514997,50,4,6,1236000,single,High,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+696,1209193,29,3,12,1103000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+697,1656838,38,2,12,926000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+698,1381175,24,2,18,1800000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+699,1430426,40,4,15,1905000,single,Low,education,car or other,existing loans paid back duly till now,male & rent,0
+700,1776816,29,4,12,1123000,divorced/separated/married,High,FF&E,car or other,existing loans paid back duly till now,female & rent,1
+701,1178282,46,4,48,6331000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,1
+702,1657898,47,2,24,1377000,divorced/separated/married,Medium,electronic equipment,car or other,existing loans paid back duly till now,female & for free,0
+703,1629275,41,2,30,2503000,single,Medium,business,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+704,1846282,32,1,27,2528000,divorced/separated/married,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+705,1607876,35,4,15,5324000,divorced/separated/married,High,new vehicle,car or other,existing loans paid back duly till now,female & for free,0
+706,1735719,24,2,48,6560000,single,Medium,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+707,1516902,25,3,12,2969000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,no loans taken/all loans paid back duly,female & rent,1
+708,1127273,25,4,9,1206000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+709,1789670,37,2,9,2118000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+710,1215142,32,3,18,629000,single,High,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+711,1346719,35,4,6,1198000,divorced/separated/married,Low,education,car or other,all loans at this bank paid back duly,female & for free,1
+712,1280395,46,4,21,2476000,single,Low,used vehicle,real estate,existing loans paid back duly till now,male & own,0
+713,1695246,25,4,9,1138000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+714,1372926,27,2,60,14027000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+715,1314021,63,4,30,7596000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+716,1152616,40,2,30,3077000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+717,1849511,32,2,18,1505000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & for free,0
+718,1153145,31,2,24,3148000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+719,1532256,31,4,20,6148000,married/widowed,Medium,used vehicle,car or other,no loans taken/all loans paid back duly,male & own,0
+720,1392809,34,2,9,1337000,single,Low,electronic equipment,car or other,no loans taken/all loans paid back duly,male & own,1
+721,1619368,24,2,6,433000,divorced/separated/married,Very high,education,building society savings agreement/life insurance,all loans at this bank paid back duly,female & rent,1
+722,1133947,24,2,12,1228000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & own,1
+723,1169619,66,3,9,790000,divorced/separated/married,High,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+724,1215207,21,3,27,2570000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & rent,1
+725,1349113,41,2,6,250000,divorced/separated/married,Very high,new vehicle,real estate,critical/pending loans at other banks,female & own,0
+726,1188964,47,2,15,1316000,married/widowed,High,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+727,1695402,25,4,18,1882000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & rent,1
+728,1183707,59,3,48,6416000,divorced/separated/married,Low,business,car or other,all loans at this bank paid back duly,female & rent,1
+729,1216943,36,4,24,1275000,divorced/separated,Very high,business,real estate,critical/pending loans at other banks,male & own,0
+730,1782832,33,2,24,6403000,single,Low,electronic equipment,car or other,delay in paying off loans in the past,male & own,0
+731,1892474,21,4,24,1987000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,1
+732,1652800,44,2,8,760000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+733,1643428,28,4,24,2603000,divorced/separated/married,Very high,used vehicle,car or other,existing loans paid back duly till now,female & rent,0
+734,1221330,37,1,4,3380000,divorced/separated/married,Low,new vehicle,real estate,critical/pending loans at other banks,female & own,0
+735,1106688,29,2,36,3990000,divorced/separated/married,Low,domestic appliances,car or other,all loans at this bank paid back duly,female & own,0
+736,1264018,23,4,24,11560000,divorced/separated/married,Low,used vehicle,car or other,existing loans paid back duly till now,female & rent,1
+737,1412879,35,4,18,4380000,single,Medium,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+738,1165210,45,3,6,6761000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+739,1399194,26,4,30,4280000,divorced/separated/married,Medium,business,car or other,no loans taken/all loans paid back duly,female & rent,1
+740,1833657,32,3,24,2325000,single,Medium,new vehicle,car or other,all loans at this bank paid back duly,male & own,0
+741,1292645,23,4,10,1048000,single,Low,electronic equipment,real estate,all loans at this bank paid back duly,male & own,0
+742,1536162,41,3,21,3160000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+743,1668971,22,4,24,2483000,single,High,FF&E,real estate,all loans at this bank paid back duly,male & own,0
+744,1216844,30,4,39,14179000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+745,1601024,28,1,13,1797000,single,Low,business,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+746,1391686,23,4,15,2511000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,0
+747,1504217,37,1,12,1274000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & own,1
+748,1800745,26,3,21,5248000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+749,1282922,33,2,15,3029000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+750,1837579,49,1,6,428000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+751,1612689,23,2,18,976000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & own,1
+752,1746834,23,4,12,841000,divorced/separated/married,Medium,business,real estate,existing loans paid back duly till now,female & rent,0
+753,1708009,25,2,30,5771000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+754,1331312,55,4,12,1555000,single,Very high,repair costs,car or other,delay in paying off loans in the past,male & for free,1
+755,1621486,32,4,24,1285000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,1
+756,1868234,74,1,6,1299000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+757,1358207,39,4,15,1271000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & for free,1
+758,1888759,31,2,24,1393000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+759,1239673,35,3,12,691000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+760,1691986,59,4,15,5045000,divorced/separated/married,Low,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+761,1298469,24,4,18,2124000,divorced/separated/married,Low,FF&E,real estate,critical/pending loans at other banks,female & rent,1
+762,1197388,24,3,12,2214000,single,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+763,1721124,30,4,21,12680000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & for free,1
+764,1462018,27,3,24,2463000,married/widowed,Medium,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+765,1235848,40,3,12,1155000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+766,1714471,31,4,30,3108000,divorced/separated,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+767,1425297,31,4,10,2901000,divorced/separated/married,Low,used vehicle,real estate,existing loans paid back duly till now,female & rent,0
+768,1325035,28,4,12,3617000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & rent,0
+769,1537731,63,4,12,1655000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+770,1175864,26,4,24,2812000,divorced/separated/married,Low,used vehicle,real estate,existing loans paid back duly till now,female & rent,0
+771,1278263,25,2,36,8065000,divorced/separated/married,Low,education,car or other,critical/pending loans at other banks,female & own,1
+772,1700305,36,4,21,3275000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+773,1730881,52,4,24,2223000,single,Medium,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+774,1687239,66,4,12,1480000,single,High,new vehicle,car or other,critical/pending loans at other banks,male & for free,0
+775,1291883,25,4,24,1371000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & rent,1
+776,1876616,37,4,36,3535000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+777,1888544,25,1,18,3509000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+778,1185509,38,2,36,5711000,single,Very high,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+779,1114818,67,4,18,3872000,divorced/separated/married,Low,repair costs,car or other,existing loans paid back duly till now,female & own,0
+780,1410684,25,2,39,4933000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,1
+781,1129775,60,4,24,1940000,single,Very high,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+782,1113703,31,2,12,1410000,single,Low,career development,real estate,no loans taken/all loans paid back duly,male & own,0
+783,1458796,23,2,12,836000,divorced/separated/married,Medium,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+784,1859102,60,4,20,6468000,divorced/separated,Low,used vehicle,real estate,existing loans paid back duly till now,male & own,0
+785,1105364,35,2,18,1941000,single,Very high,business,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+786,1552102,40,4,22,2675000,single,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+787,1768642,38,3,48,2751000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+788,1545112,50,4,48,6224000,single,Low,education,car or other,delay in paying off loans in the past,male & for free,1
+789,1617637,27,3,40,5998000,single,Low,education,car or other,critical/pending loans at other banks,male & own,1
+790,1569484,39,4,21,1188000,divorced/separated/married,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+791,1372040,41,4,24,6313000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+792,1889303,27,2,6,1221000,married/widowed,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+793,1414229,51,4,24,2892000,divorced/separated,Low,FF&E,car or other,existing loans paid back duly till now,male & for free,0
+794,1251047,32,3,24,3062000,single,High,FF&E,car or other,existing loans paid back duly till now,male & rent,0
+795,1755345,22,4,9,2301000,divorced/separated/married,Medium,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+796,1228039,51,4,18,7511000,single,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & for free,1
+797,1675569,22,4,12,1258000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,0
+798,1258889,54,4,24,717000,married/widowed,Low,new vehicle,car or other,delay in paying off loans in the past,male & own,0
+799,1873693,35,2,9,1549000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+800,1513715,54,4,24,1597000,single,Low,education,car or other,critical/pending loans at other banks,male & for free,0
+801,1609859,48,4,18,1795000,divorced/separated/married,Low,electronic equipment,real estate,critical/pending loans at other banks,female & rent,0
+802,1867602,24,4,20,4272000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+803,1631439,35,4,12,976000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+804,1739359,24,2,12,7472000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & rent,0
+805,1487299,24,1,36,9271000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+806,1713111,26,3,6,590000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+807,1207751,65,4,12,930000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+808,1848913,55,2,42,9283000,single,Low,used vehicle,car or other,all loans at this bank paid back duly,male & for free,0
+809,1366939,26,1,15,1778000,divorced/separated/married,Low,new vehicle,real estate,no loans taken/all loans paid back duly,female & rent,1
+810,1109861,26,2,8,907000,married/widowed,Low,business,real estate,existing loans paid back duly till now,male & own,0
+811,1662902,28,3,6,484000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+812,1434140,24,4,36,9629000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,1
+813,1310244,54,4,48,3051000,single,Low,domestic appliances,car or other,existing loans paid back duly till now,male & own,1
+814,1455390,46,4,48,3931000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+815,1436351,54,2,36,7432000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,delay in paying off loans in the past,female & rent,0
+816,1771663,62,4,6,1338000,divorced/separated,High,domestic appliances,real estate,existing loans paid back duly till now,male & own,0
+817,1646485,24,2,6,1554000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & rent,0
+818,1113817,43,3,36,15857000,divorced/separated,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+819,1834364,26,3,18,1345000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+820,1170672,27,2,12,1101000,married/widowed,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+821,1300764,24,1,12,3016000,married/widowed,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+822,1725992,41,2,36,2712000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+823,1864186,47,4,8,731000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+824,1596340,35,2,18,3780000,divorced/separated,Low,FF&E,car or other,critical/pending loans at other banks,male & own,0
+825,1226103,30,3,21,1602000,married/widowed,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+826,1225173,33,4,18,3966000,divorced/separated/married,Low,new vehicle,real estate,critical/pending loans at other banks,female & rent,1
+827,1632164,36,2,18,4165000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & own,1
+828,1227188,47,4,36,8335000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,1
+829,1529209,38,4,48,6681000,single,Low,business,car or other,delay in paying off loans in the past,male & for free,0
+830,1324304,44,2,24,2375000,single,High,business,car or other,delay in paying off loans in the past,male & own,0
+831,1331183,23,3,18,1216000,divorced/separated/married,Low,new vehicle,car or other,existing loans paid back duly till now,female & rent,1
+832,1296225,29,4,45,11816000,single,Low,business,car or other,no loans taken/all loans paid back duly,male & rent,1
+833,1527920,42,4,24,5084000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+834,1319710,25,3,15,2327000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+835,1649832,48,4,12,1082000,single,Low,new vehicle,car or other,no loans taken/all loans paid back duly,male & own,1
+836,1282362,21,2,12,886000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+837,1148187,23,3,4,601000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+838,1609255,63,4,24,2957000,single,Low,used vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+839,1752833,46,3,24,2611000,married/widowed,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+840,1865216,29,2,36,5179000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+841,1313830,28,2,21,2993000,single,Low,used vehicle,real estate,delay in paying off loans in the past,male & own,0
+842,1731499,23,4,18,1943000,divorced/separated/married,Low,repair costs,real estate,existing loans paid back duly till now,female & own,1
+843,1209302,50,4,24,1559000,single,Low,business,car or other,all loans at this bank paid back duly,male & own,0
+844,1714483,47,4,18,3422000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+845,1237910,35,3,21,3976000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+846,1132898,68,4,18,6761000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & rent,1
+847,1775542,28,2,24,1249000,married/widowed,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+848,1591350,59,4,9,1364000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+849,1398582,57,4,12,709000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,1
+850,1596230,33,2,20,2235000,married/widowed,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & rent,1
+851,1785162,43,4,24,4042000,single,Low,used vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+852,1157193,35,4,15,1471000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & for free,0
+853,1192570,32,4,18,1442000,single,Low,new vehicle,car or other,all loans at this bank paid back duly,male & for free,1
+854,1710864,45,2,36,10875000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & own,0
+855,1566750,33,3,24,1474000,married/widowed,Medium,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+856,1902547,40,3,10,894000,divorced/separated/married,Low,career development,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+857,1759209,28,2,15,3343000,single,Low,FF&E,car or other,critical/pending loans at other banks,male & for free,0
+858,1808244,29,2,15,3959000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+859,1201646,26,2,9,3577000,single,Medium,new vehicle,real estate,existing loans paid back duly till now,male & rent,0
+860,1607767,27,2,24,5804000,single,Very high,used vehicle,real estate,critical/pending loans at other banks,male & own,0
+861,1330120,28,2,18,2169000,married/widowed,Low,business,car or other,delay in paying off loans in the past,male & own,1
+862,1326318,35,4,24,2439000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+863,1374670,32,2,27,4526000,single,Very high,FF&E,real estate,critical/pending loans at other banks,male & own,0
+864,1524976,25,2,10,2210000,single,Low,FF&E,real estate,existing loans paid back duly till now,male & rent,1
+865,1883700,20,4,15,2221000,divorced/separated/married,High,FF&E,car or other,existing loans paid back duly till now,female & rent,0
+866,1269924,27,1,18,2389000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+867,1597065,42,4,12,3331000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+868,1324619,37,2,36,7409000,single,Low,business,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+869,1215860,24,4,12,652000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+870,1425802,40,4,36,7678000,divorced/separated/married,High,FF&E,car or other,delay in paying off loans in the past,female & own,0
+871,1777992,46,4,6,1343000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+872,1881691,26,1,24,1382000,single,Medium,business,real estate,critical/pending loans at other banks,male & own,0
+873,1378093,24,1,15,874000,divorced/separated/married,Low,domestic appliances,real estate,existing loans paid back duly till now,female & own,0
+874,1636229,29,2,12,3590000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+875,1578419,40,4,11,1322000,divorced/separated/married,Very high,new vehicle,car or other,critical/pending loans at other banks,female & own,0
+876,1860396,36,4,18,1940000,single,Low,electronic equipment,car or other,all loans at this bank paid back duly,male & for free,0
+877,1624943,28,2,36,3595000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+878,1620731,27,2,9,1422000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & for free,1
+879,1562605,36,3,30,6742000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+880,1465475,38,3,24,7814000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & own,0
+881,1321302,48,4,24,9277000,divorced/separated,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+882,1396513,36,4,30,2181000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+883,1612911,65,4,18,1098000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+884,1714860,43,3,24,4057000,divorced/separated,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+885,1566194,53,4,12,795000,divorced/separated/married,Low,education,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,1
+886,1851627,34,3,24,2825000,single,Low,business,car or other,critical/pending loans at other banks,male & own,0
+887,1207853,23,2,48,15672000,single,Low,business,car or other,existing loans paid back duly till now,male & own,1
+888,1891556,34,4,36,6614000,single,Low,new vehicle,car or other,critical/pending loans at other banks,male & own,0
+889,1295527,40,4,28,7824000,single,Low,used vehicle,real estate,all loans at this bank paid back duly,male & rent,0
+890,1184172,43,4,27,2442000,single,Low,business,car or other,critical/pending loans at other banks,male & own,0
+891,1121429,46,4,15,1829000,single,Low,electronic equipment,car or other,critical/pending loans at other banks,male & own,0
+892,1163715,38,4,12,2171000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+893,1851827,34,4,36,5800000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & own,0
+894,1175107,29,3,18,1169000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+895,1262341,31,2,36,8947000,single,Low,used vehicle,car or other,delay in paying off loans in the past,male & own,0
+896,1847909,28,4,21,2606000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+897,1627071,35,2,12,1592000,divorced/separated/married,Very high,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & own,0
+898,1501276,33,4,15,2186000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & rent,0
+899,1300945,42,3,18,4153000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,1
+900,1467259,43,4,16,2625000,single,Low,new vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & rent,1
+901,1621154,44,4,20,3485000,divorced/separated,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+902,1546272,42,4,36,10477000,single,Low,used vehicle,car or other,critical/pending loans at other banks,male & for free,0
+903,1223571,40,2,15,1386000,married/widowed,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+904,1344883,36,1,24,1278000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & own,0
+905,1894721,20,2,12,1107000,single,Low,electronic equipment,real estate,existing loans paid back duly till now,male & rent,0
+906,1839877,24,2,21,3763000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+907,1792973,27,2,36,3711000,married/widowed,Low,education,car or other,existing loans paid back duly till now,male & own,0
+908,1604138,46,2,15,3594000,divorced/separated/married,Low,used vehicle,building society savings agreement/life insurance,delay in paying off loans in the past,female & own,0
+909,1165411,33,2,9,3195000,divorced/separated/married,Low,new vehicle,real estate,existing loans paid back duly till now,female & own,0
+910,1142707,34,4,36,4454000,divorced/separated/married,Low,electronic equipment,real estate,delay in paying off loans in the past,female & own,0
+911,1511482,25,4,24,4736000,divorced/separated/married,Low,FF&E,car or other,critical/pending loans at other banks,female & own,1
+912,1506652,25,4,30,2991000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+913,1690613,28,2,11,2142000,divorced/separated,Very high,business,real estate,existing loans paid back duly till now,male & own,0
+914,1341536,31,2,24,3161000,single,Low,business,building society savings agreement/life insurance,all loans at this bank paid back duly,male & rent,1
+915,1181133,32,2,48,18424000,divorced/separated/married,Low,used vehicle,building society savings agreement/life insurance,no loans taken/all loans paid back duly,female & own,1
+916,1620525,32,2,10,2848000,single,Medium,used vehicle,real estate,existing loans paid back duly till now,male & own,0
+917,1316293,68,4,6,14896000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+918,1214474,33,1,24,2359000,divorced/separated,Medium,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+919,1656780,39,2,24,3345000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,1
+920,1620879,28,2,18,1817000,divorced/separated/married,Low,FF&E,car or other,critical/pending loans at other banks,female & own,0
+921,1277992,37,1,48,12749000,single,High,electronic equipment,car or other,delay in paying off loans in the past,male & own,0
+922,1718184,22,4,9,1366000,divorced/separated/married,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,1
+923,1875017,30,4,12,2002000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+924,1348796,55,1,24,6872000,divorced/separated,Low,FF&E,building society savings agreement/life insurance,all loans at this bank paid back duly,male & own,1
+925,1853451,46,2,12,697000,single,Low,new vehicle,car or other,all loans at this bank paid back duly,male & own,1
+926,1561011,21,4,18,1049000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,0
+927,1461746,39,4,48,10297000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,1
+928,1708241,58,4,30,1867000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+929,1697111,43,2,12,1344000,single,Low,new vehicle,real estate,delay in paying off loans in the past,male & own,0
+930,1629759,24,1,24,1747000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+931,1797093,22,2,9,1670000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,1
+932,1484251,30,1,9,1224000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+933,1224220,42,4,12,522000,single,High,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+934,1631343,23,1,12,1498000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+935,1379089,30,3,30,1919000,single,Medium,electronic equipment,car or other,delay in paying off loans in the past,male & own,1
+936,1566487,28,2,9,745000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,1
+937,1324370,30,3,6,2063000,married/widowed,Low,electronic equipment,car or other,existing loans paid back duly till now,male & rent,0
+938,1597372,42,4,60,6288000,single,Low,education,car or other,existing loans paid back duly till now,male & for free,1
+939,1230532,46,4,24,6842000,single,Low,used vehicle,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+940,1277957,45,3,12,3527000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+941,1233898,31,2,10,1546000,single,Low,new vehicle,real estate,existing loans paid back duly till now,male & own,0
+942,1903505,31,2,24,929000,single,Low,FF&E,car or other,existing loans paid back duly till now,male & own,0
+943,1838598,42,1,4,1455000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+944,1420837,46,1,15,1845000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,female & rent,0
+945,1106411,30,1,48,8358000,divorced/separated/married,High,new vehicle,car or other,no loans taken/all loans paid back duly,female & own,0
+946,1855489,30,4,24,3349000,single,High,FF&E,car or other,all loans at this bank paid back duly,male & for free,1
+947,1830446,38,4,12,2859000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+948,1441977,43,1,18,1533000,married/widowed,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+949,1856513,31,4,24,3621000,single,Medium,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+950,1406906,40,3,18,3590000,married/widowed,Low,business,car or other,critical/pending loans at other banks,male & own,0
+951,1484297,24,1,36,2145000,single,Low,business,car or other,delay in paying off loans in the past,male & own,1
+952,1740610,28,4,24,4113000,divorced/separated/married,High,used vehicle,car or other,existing loans paid back duly till now,female & rent,1
+953,1297322,26,2,36,10974000,divorced/separated/married,Low,FF&E,car or other,existing loans paid back duly till now,female & own,1
+954,1794786,29,4,12,1893000,divorced/separated/married,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,female & own,0
+955,1843702,57,4,24,1231000,divorced/separated/married,Very high,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,0
+956,1853266,49,4,30,3656000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+957,1584434,37,4,9,1154000,single,Low,electronic equipment,real estate,critical/pending loans at other banks,male & own,0
+958,1622389,45,2,28,4006000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,1
+959,1601048,30,4,24,3069000,single,Medium,FF&E,car or other,existing loans paid back duly till now,male & for free,0
+960,1210748,30,2,6,1740000,married/widowed,Low,electronic equipment,real estate,critical/pending loans at other banks,male & rent,0
+961,1584674,47,4,21,2353000,divorced/separated,Low,new vehicle,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+962,1773509,29,2,15,3556000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+963,1315873,35,2,24,2397000,single,High,electronic equipment,car or other,existing loans paid back duly till now,male & own,1
+964,1659170,22,1,6,454000,married/widowed,Low,repair costs,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+965,1161027,26,1,30,1715000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+966,1666331,23,2,27,2520000,single,High,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+967,1853070,54,2,15,3568000,divorced/separated/married,Low,electronic equipment,car or other,existing loans paid back duly till now,female & rent,0
+968,1355404,29,4,42,7166000,married/widowed,Low,electronic equipment,building society savings agreement/life insurance,existing loans paid back duly till now,male & rent,0
+969,1655259,40,2,11,3939000,single,Low,new vehicle,real estate,critical/pending loans at other banks,male & own,0
+970,1662480,22,2,15,1514000,single,Medium,repair costs,real estate,existing loans paid back duly till now,male & own,0
+971,1637827,43,4,24,7393000,single,Low,new vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+972,1107910,29,4,24,1193000,divorced/separated/married,Low,new vehicle,car or other,all loans at this bank paid back duly,female & rent,1
+973,1286651,36,4,60,7297000,single,Low,business,car or other,existing loans paid back duly till now,male & rent,1
+974,1386565,33,2,30,2831000,divorced/separated/married,Low,electronic equipment,car or other,critical/pending loans at other banks,female & own,0
+975,1782237,57,3,24,1258000,divorced/separated/married,High,electronic equipment,car or other,existing loans paid back duly till now,female & own,0
+976,1755205,64,3,6,753000,divorced/separated/married,Low,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+977,1570934,42,2,18,2427000,single,Low,business,building society savings agreement/life insurance,delay in paying off loans in the past,male & own,0
+978,1825579,47,4,24,2538000,single,Low,new vehicle,car or other,delay in paying off loans in the past,male & own,1
+979,1705740,25,2,15,1264000,married/widowed,Medium,new vehicle,building society savings agreement/life insurance,all loans at this bank paid back duly,male & rent,1
+980,1466304,49,2,30,8386000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,1
+981,1880388,33,2,48,4844000,single,Low,business,car or other,existing loans paid back duly till now,male & rent,1
+982,1782965,28,1,21,2923000,divorced/separated/married,Medium,new vehicle,car or other,existing loans paid back duly till now,female & own,0
+983,1775563,26,2,36,8229000,single,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,1
+984,1355517,30,2,24,2028000,single,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+985,1490831,25,3,15,1433000,divorced/separated/married,Low,FF&E,building society savings agreement/life insurance,critical/pending loans at other banks,female & rent,0
+986,1902571,33,1,42,6289000,divorced/separated,Low,business,building society savings agreement/life insurance,no loans taken/all loans paid back duly,male & own,0
+987,1555553,64,4,13,1409000,divorced/separated/married,Medium,electronic equipment,real estate,existing loans paid back duly till now,female & own,0
+988,1633096,29,2,24,6579000,single,Low,used vehicle,car or other,existing loans paid back duly till now,male & for free,0
+989,1866309,48,2,24,1743000,single,Low,electronic equipment,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+990,1354034,37,1,12,3565000,single,Low,education,building society savings agreement/life insurance,critical/pending loans at other banks,male & own,0
+991,1365267,34,4,15,1569000,single,Medium,electronic equipment,car or other,all loans at this bank paid back duly,male & own,0
+992,1237705,23,4,18,1936000,married/widowed,Low,electronic equipment,car or other,existing loans paid back duly till now,male & rent,0
+993,1609685,30,3,36,3959000,single,Low,FF&E,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+994,1615010,50,3,12,2390000,single,Low,new vehicle,car or other,existing loans paid back duly till now,male & own,0
+995,1880194,31,4,12,1736000,divorced/separated/married,Low,FF&E,real estate,existing loans paid back duly till now,female & own,0
+996,1114064,40,4,30,3857000,divorced/separated,Low,used vehicle,building society savings agreement/life insurance,existing loans paid back duly till now,male & own,0
+997,1758046,38,4,12,804000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & own,0
+998,1824545,23,4,45,1845000,single,Low,electronic equipment,car or other,existing loans paid back duly till now,male & for free,1
+999,1660770,27,4,45,4576000,single,Medium,used vehicle,car or other,critical/pending loans at other banks,male & own,0
