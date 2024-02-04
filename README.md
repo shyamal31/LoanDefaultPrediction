@@ -25,3 +25,15 @@ install required packages and module
 ```
 pip install -r requirement.txt
 ```
+
+
+For mac users
+```
+python -m venv venv
+```
+Activate a new environment
+
+```
+source venv/bin/activate
+```
+
